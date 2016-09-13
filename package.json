@@ -1,6 +1,6 @@
 {
   "name": "my-bizweb-api",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Bizweb API SDK for node",
   "homepage": "https://github.com/Codeteria/my-bizweb-api",
   "author": {
